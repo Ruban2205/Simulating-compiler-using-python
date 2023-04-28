@@ -1,6 +1,3 @@
-COPY    START    1000
-        LDA      ALPHA
-        STA      BETA
-ALPHA   RESW     1
-BETA    RESW     1
-        END
+E Q T R F
+id + * ( ) $
+TQ O O TQ O O O +TQ O O e e FR O O FR O O O e *FR O e e id O O (E) O O
