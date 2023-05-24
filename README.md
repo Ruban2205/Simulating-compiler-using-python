@@ -33,19 +33,14 @@ cd Simulating-compiler-using-python
 
 4. Feel free to explore and modify the code according to your needs. You can use these simulations as a starting point for building your own compiler or understanding the inner workings of different compiler components. 
 
-## Licence 
+## Contributing 🤝
 
-## Contact
+Contributions to this repository are welcome! If you find any issues or want to add new features or improvements, please open an issue or submit a pull request. Make sure to follow the existing coding style and provide appropriate documentation for your changes. 
 
-<hr>
+## Licence 🪪
 
-### Star ⭐ this repository for Future use :)
+This repository is licensed under the [MIT LICENSE](/LICENSE). You are free to use, modify and distribute the code for both commerical and non-commercial purposes. 
 
-Click below to gift a book to me.
+## Contact ☎️
 
-[![BuyMeABook](https://img.shields.io/badge/Buy%20Me%20a%20Book-ffdd00?style=for-the-badge&logo=buy-me-a-book&logoColor=black)
-](https://bit.ly/3M5jxLd)
-
-**Thank You!!**
-
-<hr/>
+If you have any questions or suggestions, please feel free to contact me. You can reach out to me via email at [info@rubangino.in](https://mailto:info@rubangino.in/). 
