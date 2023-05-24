@@ -43,4 +43,27 @@ This repository is licensed under the [MIT LICENSE](/LICENSE). You are free to u
 
 ## Contact ☎️
 
-If you have any questions or suggestions, please feel free to contact me. You can reach out to me via email at [info@rubangino.in](https://mailto:info@rubangino.in/). 
+If you have any questions, suggestions, or feedback regarding this repository, please feel free to reach out. You can contact the repository owner, [Ruban2205](https://github.com/Ruban2205), through the following channels. 
+
+- GitHub: [Ruban2205](https://github.com/Ruban2205)
+- Email: [info@rubangino.in](https://mailto:info@rubangino.in/)
+
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rubangino.in/)
+[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@rubangino.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruban-gino-singh/)
+
+Please allow some time for a response, as the owner have other commitments. 
+Constructive feedbad and contributions are highly appreciated. 
+
+Thank you for your interest in this repository!
+
+### Star ⭐ this repository for Future use 😊
+
+Click below to gift 🎁 a book to me.
+
+[![BuyMeABook](https://img.shields.io/badge/Buy%20Me%20a%20Book-ffdd00?style=for-the-badge&logo=buy-me-a-book&logoColor=black)
+](https://bit.ly/3M5jxLd)
+
+**Thank You!!**
+
+<hr/>
