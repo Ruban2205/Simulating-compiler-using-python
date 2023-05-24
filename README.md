@@ -1,6 +1,6 @@
-# Simulating compiler using python
+# Simulating compiler using python 🖥️
 
-This repository contains various topic of system software and compiler design hands on code files. 
+Welcome to the "Simulating Compiler using Python" respoitory! 🎉 This repository contains a collection of Python code for simulating various components of a compiler. These components include token separation, symbol table generation, simulation of a macro processor, YAAC Programs, DFA Simulation, assembler simulation, predictive parser simulation, loader simulation, and intermediate code generator simulation. 
 
 ## Topics
 
