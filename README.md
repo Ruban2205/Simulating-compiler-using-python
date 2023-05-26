@@ -53,7 +53,7 @@ If you have any questions, suggestions, or feedback regarding this repository, p
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruban-gino-singh/)
 
 Please allow some time for a response, as the owner have other commitments. 
-Constructive feedbad and contributions are highly appreciated. 
+Constructive feedback and contributions are highly appreciated. 
 
 Thank you for your interest in this repository!
 
