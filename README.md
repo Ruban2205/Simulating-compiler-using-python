@@ -37,7 +37,7 @@ cd Simulating-compiler-using-python
 
 Contributions to this repository are welcome! If you find any issues or want to add new features or improvements, please open an issue or submit a pull request. Make sure to follow the existing coding style and provide appropriate documentation for your changes. 
 
-## Licence 🪪
+## License 🪪
 
 This repository is licensed under the [MIT LICENSE](/LICENSE). You are free to use, modify and distribute the code for both commerical and non-commercial purposes. 
 
